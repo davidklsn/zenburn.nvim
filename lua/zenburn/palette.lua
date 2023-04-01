@@ -71,7 +71,7 @@ return {
 	Type = { fg="#dfdfbf", },
 	Typedef = { fg="#dfe4cf", bold=true, },
 	Underlined = { fg="#dcdccc", underline=true, },
-	VertSplit = { fg="#3f3f3f", bg="#3f3f3f", },
+	VertSplit = { fg="#9ba2ad", bg="#3f3f3f", },
 	Visual = { bg="#233323" },
 	VisualNOS = { bg="#233323" },
 	WarningMsg = { fg="#ffffff", bg="#333333", bold=true, },
