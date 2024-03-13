@@ -28,7 +28,7 @@ return {
 	IncSearch = { bg="#f8f893", fg="#385f38", },
 	Keyword = { fg="#f0dfaf", bold=true, },
 	Label = { fg="#dfcfaf", underline=true, },
-	LineNr = { fg="#5d6262", bg="#353535" },
+	LineNr = { fg="#5d6262", bg="#5d6262" },
 	Macro = { fg="#ffcfaf", bold=true, },
 	MatchParen = { fg="#b2b2a0", bg="#2e2e2e", bold=true, },
 	ModeMsg = { fg="#ffcfaf", },
