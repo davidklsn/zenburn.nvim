@@ -1,7 +1,7 @@
 return {
 	Boolean = { fg="#dca3a3", },
 	Character = { fg="#dca3a3", bold=true, },
-	ColorColumn = { bg="#484848", },
+	ColorColumn = { bg="#dca3a3", },
 	Comment = { fg="#7f9f7f", },
 	Conditional = { fg="#f0dfaf", bold=true, },
 	Constant = { fg="#dca3a3", bold=true, },
