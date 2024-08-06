@@ -36,7 +36,7 @@ return {
 	NonText = { fg="#5b605e", bold=true, },
 	Normal = { fg="#dcdccc", bg="#3f3f3f", },
 	NormalFloat = { bg="#3F3F3F", fg="#9f9f9f", },
-	Number = { fg="#8cd0d3", },
+	Number = { fg="#F0DFAF", },
 	Operator = { fg="#f0efd0", },
 	PmenuSel = { bg="#242424", fg="#d0d0a0", bold=true, },
 	PmenuThumb = { bg="#a0afa0", fg="#040404", },
